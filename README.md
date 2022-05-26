@@ -14,7 +14,10 @@ I am learning web development from freecodecamp.org .
 This project is my first project that is built purely using html.
 ## Screenshots
 
-![Web page Screenshots](https://www.dropbox.com/s/p5il9jdi7648q23/1.png?dl=0)
+![Web page Screenshots 1](images/1.png)
 
+![Web page Screenshots 2](images/2.png)
+
+![Web page Screenshots 3](images/3.png)
 
 
